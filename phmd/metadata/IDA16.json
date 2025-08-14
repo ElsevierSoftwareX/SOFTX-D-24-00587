@@ -202,6 +202,7 @@
             "description": "Historial counts. Missing values replace by -1"
         }
     },
+    "filters": {},
     "system": {},
     "resources": {
         "1. storage": {
